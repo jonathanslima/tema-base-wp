@@ -6,4 +6,4 @@
 
 ## 2. Gulp
 
-```sudo npm install```# tema-base-wp
+```sudo npm install```
